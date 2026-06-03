@@ -6,7 +6,7 @@ order: 4
 ---
 
 # HCOS Lab & Selling Mood:
-The Intersection of Precision and Emotion
+# The Intersection of Precision and Emotion
 
 **Why should your brand be remembered?**
 Is it for the technical perfection that backs its efficacy, or for the mood that transforms someone’s daily routine? I provide the answer to both.
