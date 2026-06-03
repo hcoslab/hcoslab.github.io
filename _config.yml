@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: HCOS Lab | Skincare Formulation & Global Market Strategy # the main title
 
-tagline: From Formulation to Market: Elevating Skincare Brands with Global Standards and K-Beauty Expertise. # it will display as the subtitle
+tagline: "From Formulation to Market: Elevating Skincare Brands with Global Standards and K-Beauty Expertise." # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
