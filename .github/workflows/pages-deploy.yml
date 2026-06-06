@@ -37,6 +37,9 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+        # 아래 부분을 추가하여 Node.js 24 환경을 명확히 설정합니다
+        env:
+          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
         # [추가할 부분] 아래 3줄을 추가하십시오
       - name: Set Node.js 24 force
         run: echo "FORCE_JAVASCRIPT_ACTIONS_TO_NODE24=true" >> $GITHUB_ENV
