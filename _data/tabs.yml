@@ -1,0 +1,15 @@
+- title: Posts
+  url: /posts/
+  icon: fas fa-pen-nib
+- title: Categories
+  url: /categories/
+  icon: fas fa-stream
+- title: Tags
+  url: /tags/
+  icon: fas fa-tags
+- title: Archives
+  url: /archives/
+  icon: fas fa-archive
+- title: About
+  url: /about/
+  icon: fas fa-info-circle
