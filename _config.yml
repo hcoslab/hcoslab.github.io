@@ -53,6 +53,7 @@ webmaster_verifications:
   yandex: # fill in your Yandex verification code
   baidu: # fill in your Baidu verification code
   facebook: # fill in your Facebook verification code
+  pinterest: 13f37f9c5f36b246cb16f5b187345c36 # 이 부분을 추가하십시오
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
