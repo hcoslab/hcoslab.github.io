@@ -51,7 +51,6 @@ We invite you to leverage our expertise to elevate your brand’s formulation st
 Ready to redefine your product’s potential? Partner with HCOS Lab to turn your technical vision into an industry-leading reality.
 
 ---
-
 ### Continue the Series
 
-* **Previous Post:** [The Science of Regeneration: Why PDRN is the New Standard](/science-of-regeneration/2026-06-03-science-of-regeneration-pdrn)
+* **Previous Post:** [The Science of Regeneration: Why PDRN is the New Standard]({% link _posts/2026-06-03-science-of-regeneration-pdrn.md %})
