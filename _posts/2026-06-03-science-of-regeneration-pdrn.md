@@ -4,6 +4,7 @@ title: "The Science of Regeneration: Why PDRN is the New Standard in Advanced Sk
 date: 2026-06-03
 categories: science-of-regeneration
 image: /assets/img/PDRN/hcoslab-pdrn-molecular-structure-01.webp
+permalink: /posts/formulation-guide-pdrn/
 ---
 
 ## The New Standard: Why PDRN?
