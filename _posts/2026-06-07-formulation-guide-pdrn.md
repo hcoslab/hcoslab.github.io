@@ -4,6 +4,7 @@ title: "PDRN Formulation Guide: Bridging the Gap Between Molecular Stability and
 date: 2026-06-07
 categories: science-of-regeneration
 image: /assets/img/PDRN/hcos_pdrn_mechanism.webp
+permalink: /posts/formulation-guide-pdrn-stability/
 ---
 
 ## [Introduction]
