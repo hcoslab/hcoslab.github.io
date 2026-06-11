@@ -53,4 +53,5 @@ Ready to redefine your product’s potential? Partner with HCOS Lab to turn your
 ---
 
 ### Continue the Series
-* **Previous Post:** [The Science of Regeneration: Why PDRN is the New Standard]({{ site.baseurl }}/science-of-regeneration/2026-06-03-science-of-regeneration-pdrn)
+
+* **Previous Post:** [The Science of Regeneration: Why PDRN is the New Standard](/science-of-regeneration/2026-06-03-science-of-regeneration-pdrn)
