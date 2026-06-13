@@ -13,7 +13,7 @@ In our previous audit, [The Amazon PDRN Illusion](https://hcoslab.com/posts/amaz
 
 No matter how pure or concentrated your Sodium DNA is, if it cannot cross the lipid baseline, it is nothing more than an expensive, sticky film sitting on your face. To turn an illusion into actual clinical efficacy, we need a physical disruptor. We need a mechanical catalyst that forces the skin to open up. Enter **Bio-Spicules**.
 
-![Visualized Barrier Breach](/assets/img/posts/hcoslab_pdrn_spicule_barrier_breach_audit.webp)
+![Visualized Barrier Breach](/assets/img/PDRN/hcoslab_pdrn_spicule_barrier_breach_audit.webp)
 
 ---
 
@@ -43,7 +43,7 @@ To solve this, HCOS Lab engineered a dual-action synergy: fuzing **Nano-stabiliz
 | Generic PDRN + Raw Spicules | $\sim 50 \mu\text{m}$ (Upper Epidermis) | 42.5% (Incomplete) | Moderate / Stagnant |
 | **HCOSLab Nano-PDRN + Purified Bio-Spicules** | **$>150 \mu\text{m}$ (Deep Dermis Target)** | **89.7% (Maximum)** | **Excellent / Accelerated** |
 
-![HCOS Lab Micro-Scan Data](/assets/img/posts/hcoslab_pdrn_spicule_microscan_data_audit.webp)
+![HCOS Lab Micro-Scan Data](/assets/img/PDRN/hcoslab_pdrn_spicule_microscan_data_audit.webp)
 
 By anchoring the nano-liposome envelope to the tip of the micro-needle structure, the PDRN payload slides directly into the cellular matrix. This achieves what we call the **"바르는 연어 주사" (Topical Rejuran Effect)**—delivering dermal-layer cellular signaling without clinical needles, bruising, or downtime.
 
@@ -55,7 +55,7 @@ Now, let me step away from the lab bench and speak directly as a brand planner w
 
 To cut costs, many mass-market brands source poorly filtered sponge matrices. These unrefined powders contain jagged organic impurities, heavy metals, and uneven shapes that do not shed naturally. Instead, they trap themselves in the skin barrier, triggering chronic inflammation, contact dermatitis, and severe skin barrier destruction.
 
-![The COGS Betrayal](/assets/img/posts/hcoslab_spicule_purity_cogs_betrayal_audit.webp)
+![The COGS Betrayal](/assets/img/PDRN/hcoslab_spicule_purity_cogs_betrayal_audit.webp)
 
 * **The HCOS Lab Standard:** We strictly mandate **99% acid-purified, hollow-core silica spicules** that seamlessly deliver the PDRN payload and naturally shed within 72 hours through regular skin turnover.
 * **The Formulation Lock:** To neutralize the inherent stinging and burning sensation of pure spicules, the vehicle must be buffered with a high-concentration osmolyte protector like **Ectoin**. Ectoin stabilizes cellular osmotic pressure, preventing micro-irritation while the PDRN works on cellular repair.
