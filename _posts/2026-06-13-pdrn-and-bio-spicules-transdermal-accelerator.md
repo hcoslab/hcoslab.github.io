@@ -1,4 +1,3 @@
-Markdown
 ---
 title: "The Transdermal Accelerator: Why PDRN Must Be Paired with Bio-Spicules"
 author: Selling Mood
@@ -7,7 +6,7 @@ categories: [science-of-regeneration, formulation-audit]
 tags: [pdrn, bio-spicules, reedle-shot, transdermal-delivery, hcos-lab]
 math: true
 image:
-  path: /assets/img/PDRN/hcoslab_pdrn_spicule_barrier_breach_audit.webp
+  path: assets/img/PDRN/hcoslab_pdrn_spicule_barrier_breach_audit.webp
   alt: "The Amazon Illusion vs HCOS Lab Bio-Spicule Transdermal Delivery Matrix"
 ---
 
