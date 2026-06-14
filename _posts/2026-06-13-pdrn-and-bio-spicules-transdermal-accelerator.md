@@ -1,13 +1,14 @@
 ---
+layout: post
 title: "The Transdermal Accelerator: Why PDRN Must Be Paired with Bio-Spicules"
-author: Selling Mood
+description: "An architectural breakdown of why molecular-scale PDRN requires structural bio-spicules to breach the stratum corneum and achieve maximum dermis-level bioavailability."
 date: 2026-06-13 17:30:00 +0900
 categories: [science-of-regeneration, formulation-audit]
 tags: [pdrn, bio-spicules, reedle-shot, transdermal-delivery, hcos-lab]
 math: true
-image:
-  path: assets/img/PDRN/hcoslab_pdrn_spicule_barrier_breach_audit.webp
-  alt: "The Amazon Illusion vs HCOS Lab Bio-Spicule Transdermal Delivery Matrix"
+image: /assets/img/PDRN/hcoslab_pdrn_spicule_barrier_breach_audit.webp
+permalink: /posts/pdrn-and-bio-spicules-transdermal-accelerator/
+canonical: https://hcoslab.com/posts/pdrn-and-bio-spicules-transdermal-accelerator/
 ---
 
 ## Introduction: The Ingestion Problem of High-End Actives
