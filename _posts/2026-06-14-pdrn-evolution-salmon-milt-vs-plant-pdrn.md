@@ -7,6 +7,7 @@ categories: [science-of-regeneration, formulation-audit]
 tags: [pdrn, phytopdrn, skincareformulation, cleanbeauty, biotechrnd, hcoslab]
 image: /assets/img/PDRN/hcoslab_pdrn_source_bio_security_comparison.webp
 permalink: /science-of-regeneration/pdrn-evolution-salmon-milt-vs-plant-pdrn/
+canonical: https://hcoslab.com/science-of-regeneration/pdrn-evolution-salmon-milt-vs-plant-pdrn/
 ---
 
 # The Evolution of PDRN: Why High-Performance Skincare is Transitioning to Plant-Derived Formulations
