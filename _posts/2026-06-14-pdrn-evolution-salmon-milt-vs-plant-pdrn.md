@@ -46,7 +46,7 @@ To completely eliminate the uncertainty of open-ocean sourcing, advanced bio-tec
 ## Part 3: Molecular Precision — Pre-Engineered Mass vs. Post-Extraction Shearing
 
 ### 1. The Polydispersity Index (PDI) Challenge
-Standard salmon PDRN is naturally macro-molecular, often exceeding 1,000 kDa upon initial extraction. To make it topically viability, it must undergo post-extraction mechanical or chemical fragmentation. This creates a wide range of molecular sizes within a single batch, making transdermal penetration rates unpredictable.
+Standard salmon PDRN is naturally macro-molecular, often exceeding 1,000 kDa upon initial extraction. To make it topically viable, it must undergo post-extraction mechanical or chemical fragmentation. This creates a wide range of molecular sizes within a single batch, making transdermal penetration rates unpredictable.
 
 ### 2. Tailored Low-Molecular Synthesis
 Phyto-PDRN alters this paradigm through molecular weight pre-engineering. During the bio-synthesis and extraction phase, biotech labs can precisely target a uniform low-molecular mass window (typically between 50 kDa and 100 kDa). 
