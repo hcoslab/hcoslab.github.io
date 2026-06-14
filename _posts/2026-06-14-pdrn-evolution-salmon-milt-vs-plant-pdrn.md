@@ -22,7 +22,7 @@ However, as the beauty industry demands higher bio-security and absolute purity 
 ### 1. Dermal Efficacy of Chum Salmon Milt DNA
 From a biomimetic perspective, traditional PDRN extracted from *Oncorhynchus keta* (Chum Salmon) milt shares a high sequence homology with human DNA. This structural alignment induces rapid fibroblast proliferation and downregulates pro-inflammatory cytokines ($IL-6$, $TNF-\alpha$). HCOS Lab acknowledges this mechanism as an absolute clinical standard for tissue repair.
 
-> **Technical Insight:** For a deeper analysis of how molecular scale dictates the baseline of skin barrier penetration and cellular integration, review our comprehensive technical brief on [The Transdermal Accelerator: Why PDRN Must Be Paired with Bio-Spicules](/science-of-regeneration/formulation-audit/the-transdermal-accelerator-why-pdrn-must-be-paired-with-bio-spicules/).
+> **Technical Insight:** For a deeper analysis of how molecular scale dictates the baseline of skin barrier penetration and cellular integration, review our comprehensive technical brief on [The Transdermal Solution of PDRN and Bio-Spicules](/posts/pdrn-and-bio-spicules-transdermal-accelerator/).
 
 ### 2. The Refining Bottleneck and Allergen Risks
 Despite its proven efficacy, marine-sourced PDRN faces operational vulnerabilities during the industrial purification phase:
@@ -53,7 +53,7 @@ Phyto-PDRN alters this paradigm through molecular weight pre-engineering. During
 
 Rather than relying on random post-extraction chopping, Phyto-PDRN is natively engineered to fit within the skin’s intercellular lipid domains, ensuring highly consistent transdermal absorption without requiring aggressive chemical penetration enhancers.
 
-![PDRN Molecular Audit: Legacy Marine vs. Engineered Phyto-PDRN](/assets/img/PDNR/hcoslab_pdrn_barrier_delivery_audit.png)
+![PDRN Molecular Audit: Legacy Marine vs. Engineered Phyto-PDRN](/assets/img/PDRN/hcoslab_pdrn_barrier_delivery_audit.webp)
 
 | Target Parameter | Active Component | Mechanism of Action |
 | :--- | :--- | :--- |
