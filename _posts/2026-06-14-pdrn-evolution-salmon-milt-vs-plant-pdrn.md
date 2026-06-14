@@ -20,7 +20,7 @@ However, as the beauty industry demands higher bio-security and absolute purity 
 ## Part 1: The Legacy of Marine PDRN and Emerging Structural Limits
 
 ### 1. Dermal Efficacy of Chum Salmon Milt DNA
-From a biomimetic perspective, traditional PDRN extracted from *Oncorhynchus keta* (Chum Salmon) milt shares a high sequence homology with human DNA. This structural alignment induces rapid fibroblast proliferation and downregulates pro-inflammatory cytokines ($IL-6$, $TNF-\alpha$). HCOS Lab acknowledges this mechanism as an absolute clinical standard for tissue repair.
+From a biomimetic perspective, traditional PDRN extracted from *Oncorhynchus keta* (Chum Salmon) milt shares a high sequence homology with human DNA. This structural alignment induces rapid fibroblast proliferation and downregulates pro-inflammatory cytokines (IL-6, TNF-alpha). HCOS Lab acknowledges this mechanism as an absolute clinical standard for tissue repair.
 
 > **Technical Insight:** For a deeper analysis of how molecular scale dictates the baseline of skin barrier penetration and cellular integration, review our comprehensive technical brief on [The Transdermal Solution of PDRN and Bio-Spicules](/posts/pdrn-and-bio-spicules-transdermal-accelerator/).
 
@@ -46,7 +46,7 @@ To completely eliminate the uncertainty of open-ocean sourcing, advanced bio-tec
 ## Part 3: Molecular Precision — Pre-Engineered Mass vs. Post-Extraction Shearing
 
 ### 1. The Polydispersity Index (PDI) Challenge
-Standard salmon PDRN is naturally macro-molecular, often exceeding 1,000 kDa upon initial extraction. To make it topically viable, it must undergo post-extraction mechanical or chemical fragmentation. This creates a wide range of molecular sizes within a single batch, making transdermal penetration rates unpredictable.
+Standard salmon PDRN is naturally macro-molecular, often exceeding 1,000 kDa upon initial extraction. To make it topically viability, it must undergo post-extraction mechanical or chemical fragmentation. This creates a wide range of molecular sizes within a single batch, making transdermal penetration rates unpredictable.
 
 ### 2. Tailored Low-Molecular Synthesis
 Phyto-PDRN alters this paradigm through molecular weight pre-engineering. During the bio-synthesis and extraction phase, biotech labs can precisely target a uniform low-molecular mass window (typically between 50 kDa and 100 kDa). 
@@ -54,13 +54,6 @@ Phyto-PDRN alters this paradigm through molecular weight pre-engineering. During
 Rather than relying on random post-extraction chopping, Phyto-PDRN is natively engineered to fit within the skin’s intercellular lipid domains, ensuring highly consistent transdermal absorption without requiring aggressive chemical penetration enhancers.
 
 ![PDRN Molecular Audit: Legacy Marine vs. Engineered Phyto-PDRN](/assets/img/PDRN/hcoslab_pdrn_barrier_delivery_audit.webp)
-
-| Target Parameter | Active Component | Mechanism of Action |
-| :--- | :--- | :--- |
-| **Dermal Signal** | Micro-Molecular Phyto-PDRN | Binds to $A_{2A}$ receptors, accelerating fibroblast collagen synthesis. |
-| **Molecular Shield** | Pure Ectoin | Forms a rigid hydration shell, protecting newly synthesized cells from environmental stress. |
-
-By aligning a clean-room cellular signal (Phyto-PDRN) with a physical macromolecular shield (Ectoin), the formula bypasses the structural irritation risks of legacy animal-derived ingredients while maximizing tissue bio-availability.
 
 ---
 
