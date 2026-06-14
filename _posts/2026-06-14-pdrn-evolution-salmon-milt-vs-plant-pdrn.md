@@ -37,7 +37,7 @@ Despite its proven efficacy, marine-sourced PDRN faces operational vulnerabiliti
 In modern clean beauty standards, the external environment of raw material sourcing is heavily scrutinized. The acceleration of ocean pollution—specifically heavy metal tracking and microplastic accumulation—introduces long-term bio-security risks for marine-harvested biological matter. 
 
 ### 2. The Controlled-Environment Cultivation (CEC) Advantage
-To completely eliminate the uncertainty of open-ocean sourcing, advanced bio-tech architecture utilizes Controlled-Environment Cultivation (CEC). By propagating specific plant matrices within certified sterile cleanrooms, labs can extract Phyto-PDRN with zero exposure to industrial contaminants, heavy metals, or marine pollutants. This method achieves a 100% stable, repeatable, and cross-contamination-free raw material chain.
+To completely eliminate the uncertainty of open-ocean sourcing, advanced bio-tech architecture utilizes Controlled-Environment Cultivation (CEC). By propagating specific plant cell cultures within certified sterile environments, labs can extract Phyto-PDRN with zero exposure to industrial contaminants, heavy metals, or marine pollutants. This method achieves a 100% stable, repeatable, and cross-contamination-free raw material chain.
 
 ![PDRN Source & Bio-Security Comparison: Marine vs. Plant-Derived](/assets/img/PDRN/hcoslab_pdrn_source_bio_security_comparison.webp)
 
@@ -51,7 +51,7 @@ Standard salmon PDRN is naturally macro-molecular, often exceeding 1,000 kDa upo
 ### 2. Tailored Low-Molecular Synthesis
 Phyto-PDRN alters this paradigm through molecular weight pre-engineering. During the bio-synthesis and extraction phase, biotech labs can precisely target a uniform low-molecular mass window (typically between 50 kDa and 100 kDa). 
 
-Rather than relying on random post-extraction chopping, Phyto-PDRN is natively engineered to fit within the skin’s intercellular lipid domains, ensuring highly consistent transdermal absorption without requiring aggressive chemical penetration enhancers.
+Rather than relying on uncontrolled post-extraction fragmentation, Phyto-PDRN is natively engineered to fit within the skin’s intercellular lipid domains, ensuring highly consistent transdermal absorption without requiring aggressive chemical penetration enhancers.
 
 ![PDRN Molecular Audit: Legacy Marine vs. Engineered Phyto-PDRN](/assets/img/PDRN/hcoslab_pdrn_barrier_delivery_audit.webp)
 
