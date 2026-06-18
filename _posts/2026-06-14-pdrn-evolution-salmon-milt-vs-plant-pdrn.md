@@ -40,8 +40,6 @@ In modern clean beauty standards, the external environment of raw material sourc
 ### 2. The Controlled-Environment Cultivation (CEC) Advantage
 To completely eliminate the uncertainty of open-ocean sourcing, advanced bio-tech architecture utilizes Controlled-Environment Cultivation (CEC). By propagating specific plant cell cultures within certified sterile environments, labs can extract Phyto-PDRN with zero exposure to industrial contaminants, heavy metals, or marine pollutants. This method achieves a 100% stable, repeatable, and cross-contamination-free raw material chain.
 
-![PDRN Source & Bio-Security Comparison: Marine vs. Plant-Derived](/assets/img/PDRN/hcoslab_pdrn_source_bio_security_comparison.webp)
-
 ---
 
 ## Part 3: Molecular Precision — Pre-Engineered Mass vs. Post-Extraction Shearing
