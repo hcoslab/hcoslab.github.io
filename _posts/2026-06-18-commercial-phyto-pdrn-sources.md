@@ -4,9 +4,7 @@ title: "The Commercial Pillars of Phyto-PDRN: Ginseng, Rice, and Marine Algae"
 date: 2026-06-18 10:00:00 +0900
 categories: [science-of-regeneration]
 tags: [phyto-pdrn, plant-pdrn, ginseng-pdrn, cosmetic-formulation, b2b-beauty]
-image:
-  path: /assets/img/phytoPDRN/1_trinity_phyto_pdrn_banner.webp
-  reveal: false
+image: /assets/img/phytoPDRN/1_trinity_phyto_pdrn_banner.webp
 permalink: /posts/commercial-phyto-pdrn-sources/
 description: "Explore the three commercial pillars of Phyto-PDRN—Ginseng, Rice, and Marine Algae. Discover their molecular mechanisms and how to leverage them as powerful marketing hooks for premium cosmetics."
 canonical: https://hcoslab.com/commercial-phyto-pdrn-sources/
@@ -17,8 +15,6 @@ canonical: https://hcoslab.com/commercial-phyto-pdrn-sources/
 In our previous analysis, we uncovered the fundamental shift from legacy salmon-derived DNA to the biosecure, low-molecular-weight paradigm of plant-derived PDRN. We demonstrated why the cosmetic industry is moving away from unmanaged open-ocean sourcing to eliminate microplastic and heavy metal contamination risks.
 
 If you haven't yet reviewed the foundational comparative audit between marine and plant-derived molecular profiles, we highly recommend reading our previous report: **[The Phyto-PDRN Evolution: Salmon Milt vs. Plant PDRN](/science-of-regeneration/pdrn-evolution-salmon-milt-vs-plant-pdrn/)**.
-
-![The Trinity of Phyto-PDRN Sourcing Banner](/assets/img/phytoPDRN/1_trinity_phyto_pdrn_banner.webp "HCOS LAB Phyto-PDRN Trinity Sourcing Master Report Banner")
 
 Today, we expand this narrative. Phyto-PDRN is not a single monolith. It is a diverse biological ecosystem. For product planners and R&D directors, understanding the distinct commercial pillars of plant-derived PDRN is the key to unlocking the next generation of hero products. Let us dissect the three primary sources dominating the current high-performance market.
 
