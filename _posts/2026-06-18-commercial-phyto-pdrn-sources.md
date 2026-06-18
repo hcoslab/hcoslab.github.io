@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "The Commercial Pillars of Phyto-PDRN: Ginseng, Rice, and Marine Algae"
-date: 2026-06-16 10:00:00 +0900
+date: 2026-06-18 10:00:00 +0900
 categories: [science-of-regeneration]
 tags: [phyto-pdrn, plant-pdrn, ginseng-pdrn, cosmetic-formulation, b2b-beauty]
+image: /assets/img/phytoPDRN/1_trinity_phyto_pdrn_banner.webp
 permalink: /posts/commercial-phyto-pdrn-sources/
 description: "Explore the three commercial pillars of Phyto-PDRN—Ginseng, Rice, and Marine Algae. Discover their molecular mechanisms and how to leverage them as powerful marketing hooks for premium cosmetics."
 canonical: https://hcoslab.com/commercial-phyto-pdrn-sources/
