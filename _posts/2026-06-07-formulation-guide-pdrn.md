@@ -18,8 +18,6 @@ The pursuit of high-performance skincare often reaches a critical bottleneck: th
 
 Achieving stable PDRN formulation requires a granular understanding of molecular behavior under varying stressors.
 
-![PDRN molecular regeneration mechanism at the cellular level](/assets/img/PDRN/hcos_pdrn_mechanism.webp)
-
 * **Molecular Stability:** PDRN is highly sensitive to pH environments; maintaining a stable buffer system is critical to prevent degradation of the nucleotide chain. Our research indicates that formulation pH must be strictly controlled between 5.5 and 6.5 to maximize shelf-life and topical bio-availability.
 * **The Ectoin Synergy:** Our technical trials highlight a profound synergistic effect between PDRN and Ectoin. While PDRN drives structural repair, Ectoin acts as a molecular "chaperone," stabilizing cellular membranes against heat and osmotic stress.
 * **Biochemical Interaction:** The inclusion of Ectoin effectively mitigates the inflammatory response often triggered by the high metabolic activity of PDRN. This combination not only enhances the skin’s barrier function but also provides a synergistic boost in collagen synthesis, as evidenced by our in-vitro data showing a 15% increase in efficacy compared to standalone PDRN applications.
