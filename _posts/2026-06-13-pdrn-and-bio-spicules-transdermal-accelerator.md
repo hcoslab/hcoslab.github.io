@@ -17,8 +17,6 @@ In our previous audit, [The Amazon PDRN Illusion](https://hcoslab.com/posts/amaz
 
 No matter how pure or concentrated your Sodium DNA is, if it cannot cross the lipid baseline, it is nothing more than an expensive, sticky film sitting on your face. To turn an illusion into actual clinical efficacy, we need a physical disruptor. We need a mechanical catalyst that forces the skin to open up. Enter **Bio-Spicules**.
 
-![Visualized Barrier Breach](/assets/img/PDRN/hcoslab_pdrn_spicule_barrier_breach_audit.webp)
-
 ---
 
 ## 1. The Physics of Penetration: How Bio-Spicules Open the Gate
