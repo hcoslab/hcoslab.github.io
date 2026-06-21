@@ -1,14 +1,13 @@
 ---
 layout: post
 title: "Beyond the Core Pillars: Niche and Concept Phyto-PDRN Sources for Targeted Skincare"
-date: 2026-06-21 10:00:00 +0900
+date: 2026-06-21 08:00:00 +0900
 categories: [science-of-regeneration]
 tags: [cica-pdrn, mushroom-pdrn, soybean-pdrn, vegan-collagen, clean-beauty]
 permalink: /posts/niche-phyto-pdrn-sources/
 description: "Explore advanced, concept-driven plant-derived PDRN sources including Cica, Reishi Mushroom, and Jeju Blue Soybean. Learn their molecular mechanisms and anti-glycation benefits."
 canonical: https://hcoslab.com/posts/niche-phyto-pdrn-sources/
-image:
-  path: /assets/img/phytoPDRN/boutique-phyto-pdrn-specialized-target-efficacy-matrix.webp
+image: /assets/img/phytoPDRN/boutique-phyto-pdrn-specialized-target-efficacy-matrix.webp
 ---
 
 ## 1. INTRODUCTION: Moving from Scale to Specialized Molecular Targeting
