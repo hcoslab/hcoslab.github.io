@@ -29,7 +29,7 @@ The integration of advanced bio-tech extraction allows the isolation of specific
 
 | Botanical Source | Molecular Mechanism | Primary Consumer Benefit |
 | :--- | :--- | :--- |
-| **Centella Asiatica (Cica)** | $A_{2A}$ Receptor Activation + TECA Synergistic Complex | Accelerated Post-Procedure Wound Healing & Deep Calm |
+| **Centella Asiatica (Cica)** | A2A Receptor Activation + TECA Synergistic Complex | Accelerated Post-Procedure Wound Healing & Deep Calm |
 | **Reishi & Truffle Mushroom** | Triple-Helix Nucleotide + Beta-Glucan Cross-Linking | Dermal Scaffold Reconstruction & Volumizing Plumping |
 | **Jeju Blue Soybean** | Phytosterols + Advanced Glycation End-products (AGEs) Inhibition | Structural Resilience & Chronic Anti-Yellowing Shield |
 
@@ -40,7 +40,7 @@ The integration of advanced bio-tech extraction allows the isolation of specific
 #### HCOS Lab R&D Insight
 Centella Asiatica has long been celebrated for its surface-level anti-inflammatory properties. However, CICA-PDRN operates on a fundamentally deeper genomic level. Isolated precisely at a molecular mass distribution of 50 to 100 kDa, these specialized nucleotide fragments are bound to a bio-active matrix of Triterpenes of Centella Asiatica (TECA)—specifically pure Asiaticoside and Madecassic Acid. 
 
-When applied to compromised or post-procedure skin, CICA-PDRN functions as a dual-action cellular engine. The low-molecular-weight DNA fragments immediately bind to the extracellular Adenosine $A_{2A}$ receptors, triggering a cascade that accelerates dermal fibroblast migration and local angiogenesis. Concurrently, the co-extracted TECA complex down-regulates pro-inflammatory cytokines ($TNF-\alpha$, $IL-1\beta$). 
+When applied to compromised or post-procedure skin, CICA-PDRN functions as a dual-action cellular engine. The low-molecular-weight DNA fragments immediately bind to the extracellular Adenosine A2A receptors, triggering a cascade that accelerates dermal fibroblast migration and local angiogenesis. Concurrently, the co-extracted TECA complex down-regulates pro-inflammatory cytokines TNF-alpha, IL-1beta. 
 
 ![CICA-PDRN Molecular Cell-Reset Mechanism Graph](/assets/img/phytoPDRN/cica-pdrn-molecular-cell-reset-mechanism.webp)
 *Figure 2. Molecular Repair Phase: Transition from Inflamed Extracellular Matrix to Re-epithelialized Green Hexagonal Lattice via CICA-PDRN Signaling.*
