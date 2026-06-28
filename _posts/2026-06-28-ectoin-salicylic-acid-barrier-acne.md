@@ -12,7 +12,7 @@ canonical: "https://hcoslab.com/posts/ectoin-salicylic-acid-barrier-acne/"
 
 # ## 🎨 [Selling Mood Visual Path] Representing Top Thumbnail Image Route
 image:
-  path: /assets/img/ectoin/bha-acid-skin-stripping-vs-barrier-safe-protection-chart.webp
+  path: /assets/img/ection/bha-acid-skin-stripping-vs-barrier-safe-protection-chart.webp
   alt: "BHA Acid Overuse vs Healthy Barrier Comparison Chart"
 ---
 
@@ -41,7 +41,7 @@ However, a critical blindspot exists between immediate cosmetic relief and long-
 | **TEWL Alteration** | Acute & chronic elevation ($TEWL \uparrow$) | Immediate stabilization & reduction ($TEWL \downarrow$) |
 | **Sebum Response** | Rebound compensatory hyper-secretion | Homeostatic balancing of the microenvironment |
 
-![BHA Acid Overuse vs Healthy Skin Barrier](/assets/img/ectoin/bha-acid-skin-stripping-vs-barrier-safe-protection-chart.webp)
+![BHA Acid Overuse vs Healthy Skin Barrier](/assets/img/ection/bha-acid-skin-stripping-vs-barrier-safe-protection-chart.webp)
 *Figure 1: The structural fallacy of acid overuse leading to lamellar lipid disruption, elevated TEWL, and compensatory sebum hyper-secretion.*
 
 **[HCOS Lab]** Mathematically and biologically, the cycle is entirely predictable. We can map it structurally:  
@@ -56,7 +56,7 @@ We have previously dissected how conventional active molecules like Niacinamide 
 
 **[HCOS Lab]** To engineer a non-destructive solution, we must look at how extremophilic microorganisms survive in hyper-saline lakes and deserts without drying out. They synthesize an amino acid derivative called **Ectoin**. Ectoin does not dissolve or chemically alter any cellular structure. Instead, it operates via a physical mechanism known as **preferential exclusion**. Due to its unique stereochemistry, Ectoin binds strongly to surrounding water molecules, organizing them into a highly stable, dense **Ectoin-Water Complex**, or a **Hydration Shell**.
 
-![Ectoin Molecular Hydration Shell and Barrier Protection Mechanism](/assets/img/ectoin/ectoin-molecular-hydration-shell-preferential-exclusion-mechanism.webp)
+![Ectoin Molecular Hydration Shell and Barrier Protection Mechanism](/assets/img/ection/ectoin-molecular-hydration-shell-preferential-exclusion-mechanism.webp)
 *Figure 2: Molecular mechanism of Ectoin creating a dense Hydration Shell through preferential exclusion to protect the epidermal permeability barrier.*
 
 When applied to acne-prone skin, this biomimetic hydration shell serves as a physical shield. It comfortably bridges the micro-fissures in a damaged lipid barrier, immediately curbing $TEWL$ without a single comedogenic risk. Furthermore, it physically stabilizes cell membranes, down-regulating the signaling cascade of inflammatory cytokines. 
