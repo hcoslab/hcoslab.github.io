@@ -32,21 +32,23 @@ However, a critical blindspot exists between immediate cosmetic relief and long-
 
 ## 2. The Illusion: The Vicious Cycle of BHA and Elevated TEWL
 
-**[Selling Mood]** The average consumer interprets the initial "squeaky-clean" or matte texture as a sign of therapeutic validation. They think, *'The acid is curing my acne.'* But underneath the surface, as that lamellar lipid matrix is stripped away, moisture begins to evaporate rapidly. This causes a dramatic spike in Transepidermal Water Loss ($TEWL$). Sensing this dehydration emergency, the sebaceous glands go into hyper-drive, triggering compensatory sebum hyper-secretion. The consumer sees more oil, misinterprets it as a need for *more* acid, and applies BHA heavier and more frequently. They trap themselves in a destructive, infinite loop.
+**[Selling Mood]** The average consumer interprets the initial "squeaky-clean" or matte texture as a sign of therapeutic validation. They think, *'The acid is curing my acne.'* But underneath the surface, as that lamellar lipid matrix is stripped away, moisture begins to evaporate rapidly. This causes a dramatic spike in Transepidermal Water Loss TEWL. Sensing this dehydration emergency, the sebaceous glands go into hyper-drive, triggering compensatory sebum hyper-secretion. The consumer sees more oil, misinterprets it as a need for *more* acid, and applies BHA heavier and more frequently. They trap themselves in a destructive, infinite loop.
 
 | Parameter | Aggressive BHA Treatment | Biomimetic Shielding Strategy |
 | :--- | :--- | :--- |
 | **Primary Mechanism** | Chemical desquamation & lipid dissolution | Preferential exclusion & hydration shell formation |
 | **Impact on Lamellar Lipids** | Severe disruption & depletion | Structural preservation & reinforcement |
-| **TEWL Alteration** | Acute & chronic elevation ($TEWL \uparrow$) | Immediate stabilization & reduction ($TEWL \downarrow$) |
+| **TEWL Alteration** | Acute & chronic elevation (TEWL ↑) | Immediate stabilization & reduction (TEWL ↓) |
 | **Sebum Response** | Rebound compensatory hyper-secretion | Homeostatic balancing of the microenvironment |
 
 ![BHA Acid Overuse vs Healthy Skin Barrier](/assets/img/ection/bha-acid-skin-stripping-vs-barrier-safe-protection-chart.webp)
 *Figure 1: The structural fallacy of acid overuse leading to lamellar lipid disruption, elevated TEWL, and compensatory sebum hyper-secretion.*
 
 **[HCOS Lab]** Mathematically and biologically, the cycle is entirely predictable. We can map it structurally:  
-$$\text{Acid Overuse} \longrightarrow \text{Lipid Matrix Disruption} \longrightarrow \text{Elevated TEWL} \longrightarrow \text{Sebum Hyper-secretion}$$  
-Attempting to cure an inflammatory pathology by perpetually stripping the physical boundary is a profound structural fallacy. It is not science; it is escalation. 
+
+**Acid Overuse** → **Lipid Matrix Disruption** → **Elevated TEWL** → **Sebum Hyper-secretion**
+
+Attempting to cure an inflammatory pathology by perpetually stripping the physical boundary is a profound structural fallacy. It is not science; it is escalation.
 
 We have previously dissected how conventional active molecules like Niacinamide struggle to protect this boundaries alone under extreme conditions (see our comprehensive analysis on [Ectoin vs Niacinamide: Skin Barrier Defense](/posts/ectoin-vs-niacinamide-skin-barrier-defense/)). True innovation demands that we stop breaking the skin barrier and instead deploy a molecular buffer that dampens inflammation while preserving structural integrity.
 
@@ -59,7 +61,7 @@ We have previously dissected how conventional active molecules like Niacinamide 
 ![Ectoin Molecular Hydration Shell and Barrier Protection Mechanism](/assets/img/ection/ectoin-molecular-hydration-shell-preferential-exclusion-mechanism.webp)
 *Figure 2: Molecular mechanism of Ectoin creating a dense Hydration Shell through preferential exclusion to protect the epidermal permeability barrier.*
 
-When applied to acne-prone skin, this biomimetic hydration shell serves as a physical shield. It comfortably bridges the micro-fissures in a damaged lipid barrier, immediately curbing $TEWL$ without a single comedogenic risk. Furthermore, it physically stabilizes cell membranes, down-regulating the signaling cascade of inflammatory cytokines. 
+When applied to acne-prone skin, this biomimetic hydration shell serves as a physical shield. It comfortably bridges the micro-fissures in a damaged lipid barrier, immediately curbing TEWL without a single comedogenic risk. Furthermore, it physically stabilizes cell membranes, down-regulating the signaling cascade of inflammatory cytokines. 
 
 This cellular stabilization is exactly what makes Ectoin a superior alternative when dealing with urban stress factors that exacerbate acne lesions. As detailed in our urban skin defense guide, combining this hydration shield with oil-controlling agents completely changes the paradigm of lipid protection (see [Why HCOS LAB Defies Conventional Acne Skincare with Ectoin and Zinc PCA](/posts/ectoin-and-zinc-pca-pm25-acne-defense/)). By shielding the membrane, it extinguishes the molecular fire of a papule before it turns into post-inflammatory hyperpigmentation (PIH).
 
