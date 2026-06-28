@@ -12,7 +12,7 @@ canonical: "https://hcoslab.com/posts/ectoin-salicylic-acid-barrier-acne/"
 
 # ## 🎨 [Selling Mood Visual Path] Representing Top Thumbnail Image Route
 image:
-  path: /assets/img/ection/bha-acid-skin-stripping-vs-barrier-safe-protection-chart.webp
+  path: /assets/img/ectoin/bha-acid-skin-stripping-vs-barrier-safe-protection-chart.webp
   alt: "BHA Acid Overuse vs Healthy Barrier Comparison Chart"
 ---
 
