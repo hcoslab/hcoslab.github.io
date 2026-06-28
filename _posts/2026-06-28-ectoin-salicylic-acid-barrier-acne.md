@@ -73,7 +73,7 @@ This cellular stabilization is exactly what makes Ectoin a superior alternative 
 
 **[HCOS Lab]** Precisely. The elimination of the microbiome is the second failure of conventional acid regimes. The advanced formulation response is not blind sterilization, but the implementation of **Prebiotics**. By introducing specific, non-digestible oligosaccharides into the topical matrix, we selectively feed beneficial commensal strains like *Staphylococcus epidermidis*. These symbionts naturally metabolize these nutrients to secrete antimicrobial peptides (AMPs) and short-chain fatty acids, suppressing pathogenic *C. acnes* proliferation through natural competitive exclusion. 
 
-![Skin Microbiome Sterilization versus Prebiotics Strategy](/assets/img/ectoin/conventional-acne-sterilization-vs-prebiotics-microbiome-balancing-strategy.webp)
+![Skin Microbiome Sterilization versus Prebiotics Strategy](/assets/img/ection/conventional-acne-sterilization-vs-prebiotics-microbiome-balancing-strategy.webp)
 *Figure 3: Ecological comparison between harsh antibacterial sterilization (Conventional) and selective prebiotic cultivation (Homeostatic) for acne control.*
 
 When you merge the structural protection of Ectoin with the microenvironmental balancing of prebiotics, you achieve true cutaneous homeostasis. You bypass the need for acids entirely.
