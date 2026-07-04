@@ -72,10 +72,9 @@ If you want to maximize your skin-brightening results and get the absolute highe
 
 When a glutathione molecule successfully neutralizes a free radical or blocks a dark spot signal, it becomes temporarily spent (semi-oxidized). However, if **Vitamin C (Ascorbic Acid)** is present in the exact same cellular environment, a brilliant chemical reaction occurs. Vitamin C donates an electron to the spent glutathione, instantly recycling it back into its active, weaponized Reduced Glutathione (GSH) state.
 
-[Active GSH] ---> Neutralizes Free Radical ---> [Spent GSSG]
-^
-| (Recycled by Vitamin C)
-[Vitamin C Donates Electron]
+When glutathione neutralizes a free radical, it becomes temporarily spent (GSSG). 
+Vitamin C then donates an electron, instantly recycling it back into active GSH — 
+creating a continuous brightening loop that never runs out.
 
 To harness this "Endless Antioxidant Loop," the ideal formulation pairs liposomal glutathione directly with stabilized or liposomal Vitamin C. When co-encapsulated, these two ingredients protect and regenerate each other in a continuous cycle. This dramatic synergy quadruples the stability and efficacy of the product, ensuring that every single drop you apply works tirelessly to transform dullness into an undeniable, deep-lit radiance.
 
