@@ -76,6 +76,6 @@ HCOS Lab's formulation standard requires an absolute 99% purity threshold to eli
 
 To learn more about advanced skin barrier protection and innovative active ingredients, check out our formulation deep dives:
 
-*   [Ectoin vs Niacinamide: Skin Barrier Defense](/posts/ectoin-vs-niacinamide-barrier/)
-*   [Why Glutathione Skincare Fails: The Liposome Truth](/posts/why-glutathione-skincare-fails/)
-*   [The Professional Formulation Guide to PDRN](/posts/professional-pdrn-formulation-guide/)
+*   [Ectoin vs Niacinamide: Skin Barrier Defense](/posts/ectoin-vs-niacinamide-skin-barrier-defense/)
+*   [Why Glutathione Skincare Fails: The Liposome Truth](/posts/why-glutathione-skincare-fails-liposome/)
+*   [The Professional Formulation Guide to PDRN](/posts/formulation-guide-pdrn-stability/)
