@@ -66,6 +66,8 @@ From an HCOS Lab perspective, the chemical synergy between Ectoin and a lamellar
 
 To learn more about advanced skin barrier protection and innovative active ingredients, check out our formulation deep dives:
 
-*   [Ectoin vs Niacinamide: Skin Barrier Defense](/posts/ectoin-vs-niacinamide-barrier/)
-*   [Why Glutathione Skincare Fails: The Liposome Truth](/posts/why-glutathione-skincare-fails/)
-*   [The Professional Formulation Guide to PDRN](/posts/professional-pdrn-formulation-guide/)
+*   [Ectoin vs Niacinamide: Skin Barrier Defense](/posts/ectoin-vs-niacinamide-skin-barrier-defense/)
+*   [Why Glutathione Skincare Fails: The Liposome Truth](/posts/why-glutathione-skincare-fails-liposome/)
+*   [The Professional Formulation Guide to PDRN](/posts/formulation-guide-pdrn/)
+*   [Bakuchiol Your Next Skincare Move](/posts/eu-retinol-rules-bakuchiol-shift/)
+
