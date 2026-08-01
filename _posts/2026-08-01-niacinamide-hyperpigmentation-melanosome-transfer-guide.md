@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Niacinamide for Hyperpigmentation: Stopping Melanosome Transfer Before Pigment Reaches the Surface"
-date: 2026-08-01 08:00:00 +0900
+date: 2026-08-01 09:00:00 +0900
 categories: [Ingredients, Science]
 tags: [niacinamide-for-dark-spots, niacinamide-for-melasma, niacinamide-skin-barrier, niacinamide-concentration, niacinamide-irritation, melanosome-transfer]
 permalink: /posts/niacinamide-hyperpigmentation-melanosome-transfer-guide/
