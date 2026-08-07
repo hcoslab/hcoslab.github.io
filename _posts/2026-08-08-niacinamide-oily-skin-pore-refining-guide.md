@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Niacinamide for Oily & Pore-Prone Skin: How Lipid Regulation and Barrier Support Refine Skin Texture"
-date: 2026-08-08 10:00:00 +0900
+date: 2026-08-08 08:00:00 +0900
 categories: [Ingredients, Science]
 tags: [niacinamide-for-oily-skin, niacinamide-for-pores, niacinamide-skin-barrier, niacinamide-sebum-control, niacinamide-concentration, niacinamide-irritation]
 permalink: /posts/niacinamide-oily-skin-pore-refining-guide/
